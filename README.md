@@ -76,7 +76,7 @@ from sklearn.model_selection import train_test_split
 5. `train_test_split`: train_test_split is a function from scikit-learn used for splitting the dataset into training and testing sets. It helps evaluate the model\'s performance on unseen data.
 
 ## Preview
-[Checkout Here]()
+[Checkout Here](https://fish-weight-prediction-by-anil79.streamlit.app/)
 
 ## 🔗 Follow us
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilkumarkonathala/)
